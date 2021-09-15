@@ -5,7 +5,7 @@ import { GET_USERS } from "../graphql/user";
 
 const Home = ({ smsgs, users }) => (
   <>
-    <h1>SIMPLE SNS</h1>
+    <h1>SNS</h1>
     <MsgList smsgs={smsgs} users={users} />
   </>
 );
