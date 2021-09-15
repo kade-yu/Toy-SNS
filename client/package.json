@@ -1,0 +1,23 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "next"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "graphql": "^15.5.3",
+    "graphql-request": "^3.5.0",
+    "graphql-tag": "^2.12.5",
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-query": "^3.23.2",
+    "sass": "^1.35.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.44.0"
+  }
+}
